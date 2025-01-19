@@ -1,3 +1,5 @@
+# Word Derivations
+
 Kokanu's grammar allows for extreme flexibility when it comes to the vocabulary. Aside from a small set of grammar particles, any **noun**, **verb**, or **modifier** can be converted to one of the other two word forms using consistent rules. This system helps reduce the overall volume of words that you need to learn to become fluent.
 
 Base Nouns

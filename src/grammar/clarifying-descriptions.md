@@ -1,3 +1,5 @@
+# Clarifying Descriptions
+
 To describe **nouns** and **verbs**, we use words tacked on to the right of a head word (the root or main content word, either noun or verb), these words are called **modifiers**. Read this guide to learn more about how modifiers can be understood and also how to make use of two helpful prepositional markers **je** and **wa**.
 
 You can use any word as a modifier and when it's tacked onto a head word, it means that the **modifier** word is an _attribute_ of the head word. In other words, the head word now has some kind of relation to the modifier. 

@@ -1,3 +1,5 @@
+# Using the Parts of Speech
+
 We've learned how to [derive](index.php?option=com_content&view=article&id=155&catid=15 "Word Derivations") words in the different parts of speech, but we haven't learned how to _recognize_ words in different parts of speech. What makes [makan](index.php?option=com_content&view=article&id=149&catid=8) sometimes mean "to eat", sometimes mean "food" and sometimes mean "edible"? It all has to do with the position of the word in the sentence and what particles, prepositions or preceding content words are present.
 
 Using Verbs
