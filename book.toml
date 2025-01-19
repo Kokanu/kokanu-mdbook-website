@@ -1,0 +1,6 @@
+[book]
+authors = ["Dev Bali"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kokanu"
