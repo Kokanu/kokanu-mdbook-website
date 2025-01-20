@@ -10,11 +10,11 @@ Pronunciation
 
 The letters **p**, **t**, **k**, **w**, **l**, **m**, **n**, **s**, and **h** are all pronounced the same as their equivalents in the IPA and in English.
 
-The letter **j** is pronounced like its equivalent in the IPA, or the letter **y** in “yellow”. The letter **c** is pronounced like ​​/tʃ/ in the IPA, or the digraph **ch** in “chat”.
+The letter **j** is pronounced like its equivalent in the IPA, which is the sound of the letter **y** in “yellow”. The letter **c** is pronounced like ​​/tʃ/ in the IPA, which is the sound of the digraph **ch** in “chat”.
 
-The vowels **a**, **e**, **i**, **o**, and **u** are pronounced the same as their equivalents in the IPA. Spanish is a common example of a language with all these sounds. The only two that are pronounced on their own in English are **i**, like the digraph **ee** in “see”, and **o** like the **o** in “cold”. The letter **u** is pronounced like the end of diphthong in the word \`tow\`, similar to the English exclamation “oooo”, with the tongue resting completely. The letter **a** is close to the **a** in the word “ash” or the **a** in “malt”  but with the throat much more open, completely unrestricted. The letter **e** is close to the **e** in “get” but more open and higher pitched.    
+The vowels **a**, **e**, **i**, **o**, and **u** are pronounced the same as their equivalents in the IPA. Spanish is a common example of a language with all these sounds. The only two that are pronounced on their own in English are **i**, like the digraph **ee** in “see”, and **o** like the **o** in “cold”. The letter **u** is pronounced like the end of diphthong in the word \`tow\`, similar to the English exclamation “oooo”, with the tongue resting completely. The letter **a** is close to the **a** in the word “ash” or the **a** in “malt”  but with the tongue much more relaxed, not raised like in "ash" or pushed back like in "malt". The letter **e** is close to the **e** in “get” but with the tongue more raised like **i** in "see", around the halfway point between the two.    
 
-For those that cannot pronounce some of these sounds exactly, the letters can be pronounced in alternative ways that do not conflict with each other. Ask in the discord for help on the standard pronunciations you are struggling with.
+For those that cannot pronounce some of these sounds exactly, there shouldn't be a problem as long as each one is pronounced differently from all the others. The sounds of the language are limited and spaced out in the mouth such that each letter can be approximated in a variety of ways without sounding too much like any other letter. Ask in the discord for help if you struggle with any of the pronunciations, and you will likely find a pronunciation that works for you.
 
 * * *
 
@@ -110,25 +110,25 @@ For more information, refer to our [Clarifying Descriptions](grammar/clarifying-
 
 ### Relations between clauses within phrases
 
-$ta starts a new clause, while $te starts a new clause and marks the first word as a **verb**. The word before $te, if there is one, is the **subject** of the **verb**.
-
-$te can be used anywhere to start a clause with a **verb**, but a comma is required after it (unless the comma would be at the end of the sentence).
+$ta starts a new clause (sentence within a sentence), while $te starts a new clause and marks the first word as a **verb**. The $te clause can modify a noun, and in these cases the noun being modified is the **subject** of the clause.
 
 $nin $te $makan "person who eats"
 
+$te can also be used without modifying a noun to create a clause that **starts with a verb** anywhere in a sentence, but the clause must end with a comma if more comes after it.
+
 $te $makan $in $kuwosi, $le $tope "eating fruit is good"
 
-$ta is just as simple when it forms an isolated clause with a preposition
+$ta functions like $te, except that it doesn't mark the first word that follows it as a verb, so the clause may start with a subject or any other preposition. It is simple to use when not modifying a noun.
 
 $ta $mi $le $makan $in $kuwosi, $le $tope "it's good that I eat fruit"
 
 $mi $le $pon $in $ta $tu $le $pasan "I cause that you are happy", "I make you happy"
 
-When you put $ta after a noun phrase, it is more complicated, because it doesn't say what the connection of the following clause is to that word.
+When $ta does modify a noun, it is more complicated. $te tells you that the noun being modified is the **subject** of the following clause, $ta doesn't say anything about the role of the noun being modified in the clause.
 
-$nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the relation between the clause "I go" and the noun "place", i.e. "place that I go to" where "to" is that relation. Kokanu does this in a very similar way.
+$nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
 
-$nin $ta $mi $le $suki $in "person that I like", where in indicates how $nin fits in to the **relative clause**.
+$nin $ta $mi $le $suki $in "person that I like", where $in indicates the role of $nin in the **relative clause**.
 
 **Sentence:** $mi $le $suki $in $nin "I like the person"  
 **Noun:** $nin $ta $mi $le $suki $in "person that I like"
@@ -139,12 +139,19 @@ $jan $ta $mi $le $lo $ke "place that I go to"
 
 $jon $ta $mi $le $tun $in $ne $wija "tool that I do this with/using"
 
-The **preposition** at the end of the clause is called a "dangling preposition". The **noun** before $ta can be referred to anywhere within the clause to establish the relation using $ja. This means that there should a $ja after the **preposition**, but it is unneeded since it is at the end of the clause.
+The **preposition** at the end of the clause is called a "dangling preposition", and it's the preposition that would have been used on the modified noun in a normal sentence, e.g. "**the place** that I go **to**," "I go **to the place**" 
+
+Alternatively, unlike in English, the clause can be written out as a full sentence, where $ja refers back to the noun being modified. 
 
 *   $nin $ta $in $ja $men $mi $le $suki
 *   $nin $ta $mi $in $ja $le $suki
-*   $nin $ta $mi $le $suki $in ($ja)  
-    $ja is unneeded here since it is at the end of the clause
+*   $nin $ta $mi $le $suki $in $ja
+
+In the last example, $ja can be dropped from the end, leaving the dangling preposition, which is how it's always done in English.
+
+In any case, the clause must end with a comma if more follows.
+
+$kuwosi ta nin le $makan $in, $le $tope
 
 For more information check out our TODO guide.
 
