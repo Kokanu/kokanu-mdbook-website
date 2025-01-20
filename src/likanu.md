@@ -24,4 +24,4 @@ It can be helpful for people accustomed to alphabets to consciously try to read 
 
 Tools
 -----
-- [Web Tool](https://likanu.kokanu.com)
+- [Web Tool](https://likanu.kokanu.com/)
