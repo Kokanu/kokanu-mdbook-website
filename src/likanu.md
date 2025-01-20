@@ -21,3 +21,7 @@ Although the vowel diacritic is placed adjacent to the consonant character, almo
 - oıɕȷ /iwe/
 
 It can be helpful for people accustomed to alphabets to consciously try to read each grouping of a consonant character with a vowel diacritic as a single symbol, as one would a letter with a top diacritic.
+
+Tools
+-----
+- [Web Tool](https://likanu.kokanu.com)

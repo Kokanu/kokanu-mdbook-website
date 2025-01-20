@@ -52,8 +52,8 @@ It’s important to think of $con to mean “thousand to the power of” or “
 
 $nanku $tiju $san $con $wan - 43,000 (\$four tens and three\ $tiju $san $con $wan $tan $wan - 43,001 (\$four tens and three\ $con $ha, $tan $nanku $sijen $nanku $tiju $lijo $con $wan, $tan $setan $tiju $etu - 3,446,078 (\$three\ is used for "zero", though, like in English, it doesn't often appear in compound whole number words. You don't find yourself saying "four thousand, zero hundred, and fifty six", do you? That said, zero is still a very important concept.
 
-$Cardinals and Ordinal Numbers
----------------------------------------------------------------------------------------------
+Cardinals and Ordinal Numbers
+-----------------------------
 
 **Cardinal numbers** are placed **before the noun**. These are used for counting **how many** or **how much** of something there is.
 
@@ -88,8 +88,8 @@ $ha $tiju $lima $osa $je $sijen - 25%
 
 $nanku $tiju $pintu $etu $setan $wan $osa $je $sijen - 40.871%
 
-$Negative Numbers
---------------------------------------------------------------------------
+Negative Numbers
+----------------
 
 **Negative numbers** are stated using opotu je \$number\ $je $san - \-3
 
@@ -97,8 +97,8 @@ $opotu $je $nanku $osa $je $tiju - \-4/10
 
 $opotu $je $lijo $pintu $saka $saka - \-6.99
 
-$Mathematical Operations
-----------------------------------------------------------------------------------------
+Mathematical Operations
+-----------------------
 
 While there are no specific words for mathematical operations such as "addition" or "multiplication", other descriptions can be used to talk about the operations in a mathematical context.
 
