@@ -9,14 +9,19 @@ def replace_dollar_sign_words(text):
     replaced_text = re.sub(pattern, r'[\1](https://dictionary.kokanu.com/\1?lang=en)', text)
     return replaced_text
 
+def do_section (section):
+    for chapter in section:
+        section[chapter]["content"] = replace_dollar_sign_words(section[chapter]["content"])
+    
+        for sub_section in section[chapter]["sub_items"]:
+            do_section(sub_section)
+
 if __name__ == '__main__':
     # load both the context and the book representations from stdin
     context, book = json.load(sys.stdin)
 
-    # and now, we can just modify the content
     for section in book["sections"]:
-        for chapter in section:
-            section[chapter]["content"] = replace_dollar_sign_words(section[chapter]["content"])
+        do_section(section)
 
     # we are done with the book's modification, we can just print it to stdout
     print(json.dumps(book))
