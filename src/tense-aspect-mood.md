@@ -9,21 +9,21 @@ A verb's tense tells you the position in time that the action occurred from the 
 
 ### Past
 
-Use the word [minuli](index.php?option=com_content&view=article&id=180&catid=8 "previous") in a verb clause to indicate that the action occurred "previously":
+Use the word $minuli in a verb clause to indicate that the action occurred "previously":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [tun](index.php?option=com_content&view=article&id=430&catid=8 "to do (an action)") [minuli](index.php?option=com_content&view=article&id=180&catid=8 "past") 'I did (it)' (lit. I do previously)
+$mi $le $tun $minuli 'I did (it)' (lit. I do previously)
 
 ### Present
 
-Use the word [iputu](index.php?option=com_content&view=article&id=49&catid=8 "present (time)") in a verb clause to indicate that the action occurred "currently":
+Use the word $iputu in a verb clause to indicate that the action occurred "currently":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [tun](index.php?option=com_content&view=article&id=430&catid=8 "to do (an action)") [iputu](index.php?option=com_content&view=article&id=49&catid=8 "now") 'I do (it)' (lit. I do currently)
+$mi $le $tun $iputu 'I do (it)' (lit. I do currently)
 
 ### Future
 
-Use the word [putuci](index.php?option=com_content&view=article&id=285&catid=8 "next") in a verb clause to indicate that the action occurs "next":
+Use the word $putuci in a verb clause to indicate that the action occurs "next":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [tun](index.php?option=com_content&view=article&id=430&catid=8 "to do (an action)") [putuci](index.php?option=com_content&view=article&id=285&catid=8 "next") 'I will do (it)' (lit. I do next(ly))
+$mi $le $tun $putuci 'I will do (it)' (lit. I do next(ly))
 
 * * *
 
@@ -34,41 +34,41 @@ A verb's aspect tells you the flow of time during which the action occurred from
 
 ### In Progress (Continuous)
 
-This **imperfective** aspect expresses actions or states that are incomplete and still in progress. Some languages consider this aspect to mean _current state_ whereas **progressive** aspect denotes current action. In other languages, these are part of the same aspect. Use the word [conca](index.php?option=com_content&view=article&id=424&catid=8 "ongoing") in a verb clause to indicate that an action or state is "ongoing":
+This **imperfective** aspect expresses actions or states that are incomplete and still in progress. Some languages consider this aspect to mean _current state_ whereas **progressive** aspect denotes current action. In other languages, these are part of the same aspect. Use the word $conca in a verb clause to indicate that an action or state is "ongoing":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") makan conca "I am eating"
+$mi $le makan conca "I am eating"
 
 ja le lo picijo conca minuli je wiki niju "They were running fast"
 
 ### Currently Happening (Progressive)
 
-This **imperfective** aspect expresses actions or states that are incomplete and are in progress at the present moment. Use the words [conca](index.php?option=com_content&view=article&id=424&catid=8 "ongoing") and [iputu](index.php?option=com_content&view=article&id=49&catid=8 "present (time)") in a verb clause to indicate that the action or state is "currently ongoing":
+This **imperfective** aspect expresses actions or states that are incomplete and are in progress at the present moment. Use the words $conca and $iputu in a verb clause to indicate that the action or state is "currently ongoing":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") pata conca iputu "I am currently reading"
+$mi $le pata conca iputu "I am currently reading"
 
 ### Starting (Inceptive/Ingressive)
 
-This **imperfective** aspect expresses actions that are incomplete and just beginning. Use the word [tepu](index.php?option=com_content&view=article&id=409&catid=8 "starting") in a verb clause to indicate that the action is "starting":
+This **imperfective** aspect expresses actions that are incomplete and just beginning. Use the word $tepu in a verb clause to indicate that the action is "starting":
 
-[mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") lo wiki [tepu](index.php?option=com_content&view=article&id=409&catid=8 "starting") "I started to run"
+$mi $le lo wiki $tepu "I started to run"
 
 ### Becoming (Inchoative)
 
-This **imperfective** aspect expresses states that are just starting to be. Use the verb [pijen](index.php?option=com_content&view=article&id=253&catid=8 "to become (a transformation)") modified by [tepu](index.php?option=com_content&view=article&id=409&catid=8 "starting"), and include your new state as the theme (direct object) of the verb to indicate that the state is "starting":
+This **imperfective** aspect expresses states that are just starting to be. Use the verb $pijen modified by $tepu, and include your new state as the theme (direct object) of the verb to indicate that the state is "starting":
 
-inpali [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [pijen](index.php?option=com_content&view=article&id=253&catid=8 "to become (a transformation)") [tepu](index.php?option=com_content&view=article&id=409&catid=8 "starting") in kula "The flowers started to bloom"
+inpali $le $pijen $tepu in kula "The flowers started to bloom"
 
 ### Stopping (Cessative)
 
-This **imperfective** aspect refers to the end of an action or a state. It is the inverse of the **inchoative** aspect. Use the modifier [konje](index.php?option=com_content&view=article&id=103&catid=8 "ending") to indicate that the state or action is "stopping" or "finishing".
+This **imperfective** aspect refers to the end of an action or a state. It is the inverse of the **inchoative** aspect. Use the modifier $konje to indicate that the state or action is "stopping" or "finishing".
 
-pawo [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [kota](index.php?option=com_content&view=article&id=108&catid=8 "to talk (speech)") [konje](index.php?option=com_content&view=article&id=103&catid=8 "ending") in tenkin "The dog stopped barking"
+pawo $le $kota $konje in tenkin "The dog stopped barking"
 
 ### Limited (Delimitative/Durative)
 
-This **imperfective** aspect is used to describe to a situation that lasts for a limited amount of time. Use the [k](index.php?option=com_content&view=article&id=19&catid=8 "location/time thematic relation marker")e thematic relation as "until" and [konje](index.php?option=com_content&view=article&id=103&catid=8 "ending") with a quantity of time to indicate that the action has a specific duration the goes until the ending. Alternatively, you could use the sun thematic relation as "starting from" and [tepu](index.php?option=com_content&view=article&id=409&catid=8 "starting") with a quantity of time for the opposite effect.
+This **imperfective** aspect is used to describe to a situation that lasts for a limited amount of time. Use the $ke thematic relation as "until" and $konje with a quantity of time to indicate that the action has a specific duration the goes until the ending. Alternatively, you could use the sun thematic relation as "starting from" and $tepu with a quantity of time for the opposite effect.
 
-mi [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") patun un le [kota](index.php?option=com_content&view=article&id=108&catid=8 "to talk (speech)") [ke](index.php?option=com_content&view=article&id=19&catid=8 "location/time thematic relation marker") [konje](index.php?option=com_content&view=article&id=103&catid=8 "ending") je jati ten "I stayed and talked for some time" (lit. I am still and talking until the end of some time)
+mi $le patun un le $kota $ke $konje je jati ten "I stayed and talked for some time" (lit. I am still and talking until the end of some time)
 
 niju mi le makan sun tepu je ha osa "We've been eating for two hours" (lit. Many of us are eating from the beginning of two hours)
 
