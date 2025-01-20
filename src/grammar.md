@@ -23,7 +23,7 @@ Base Forms
 
 Every word has one base form, either base **noun**, base **verb**, or base **modifier**. Any word can act in any form, but its base determines how it acts in other forms. You can always distinguish when a word is being used as a **noun**, **verb** or **modifier**.
 
-Verbs are marked by the particles [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") and [o](index.php?option=com_content&view=article&id=217&catid=8 "imperative/deontic marker").
+Verbs are marked by the particles $le and $o.
 
 [men](index.php?option=com_content&view=article&id=173&catid=8 "subject marker") [mi](index.php?option=com_content&view=article&id=178&catid=8 "I/me") [le](index.php?option=com_content&view=article&id=134&catid=8 "verb marker") [makan](index.php?option=com_content&view=article&id=149&catid=8 "to consume (food)") “I eat”
 

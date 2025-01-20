@@ -1,6 +1,10 @@
 [book]
-authors = ["Dev Bali"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Kokanu"
+description = "A minimalist IAL"
+
+[preprocessor.kokanu-word-link]
+renderers = ["html"]
+command = "python3 kokanu-word-link.py"
