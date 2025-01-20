@@ -151,7 +151,7 @@ In the last example, $ja can be dropped from the end, leaving the dangling prepo
 
 In any case, the clause must end with a comma if more follows.
 
-$kuwosi ta nin le $makan $in, $le $tope
+$kuwosi $ta $nin $le $makan $in, $le $tope
 
 For more information check out our TODO guide.
 
