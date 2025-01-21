@@ -14,4 +14,4 @@ A vocabulary created along these guidelines, combined with a flexible and fluidl
 
 The Kokanu language project is an engaged and enthusiastic community of linguists, students of language, and hobbyists who are excited to try something new when it comes to auxiliary language planning. It includes native speakers in most of the world's major language families, including Germanic, Romance, Indo-Aryan, Slavic, Semitic, and Sino-Tibetan, and highly values feedback from diverse language perspectives. If you're a native speaker of a language in one of these families or any others and willing to give feedback, or you want to help create content and advance the project, or even if you're just curious, please come join us on our Discord server!
 
-(insert Discord invite embed here)
+[Discord Invite](https://discord.gg/fMAfGRkGvQ)
