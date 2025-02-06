@@ -60,4 +60,8 @@ Kokanu has its own set of punctuation, described here.
 |｢｣ / ◖◗ |""       |Marks a quote, not a literal statement                     |
 |‹›      |**N**ame |Marks a proper noun or name                                |
 
+## Writing Likanu
+
+Writing Likanu characters can be a challenge, as they cannot be typed with most standard keyboards. While there will eventually be keyboard layouts, one way you can currently type Likanu is using the [Likanu web tool](https://likanu.kokanu.com/), which converts Latin script Kokanu to Likanu and vice-versa.
+
 [^note]: The answer is "mi le suki te kota wija Kokanu, un mi le kota conca wija ja"
