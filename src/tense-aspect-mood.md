@@ -80,11 +80,15 @@ ja le pa hapijo je wan cunpu an kumon je niwa "He knocked one time on the door"
 
 ### Distributive
 
-This imperfective aspect describes an event that is being applied to a group of entities one after another. It can be an experiencer of a non-base verb or the object of a base verb (patient/theme/stimulus). In Kokanu, you would use a wija clause to describe the manner of the event which can include a description of a distributive action.
+This **imperfective** aspect describes an event that is being applied to a group of entities one after another. It can be an experiencer of a non-base verb or the object of a base verb (patient/theme/stimulus). In Kokanu, you would use a $wija clause to describe the manner of the event which can include a description of a distributive action.
 
-ja le kota ke non nin wija te ke wan nin an wan ten "He talks to the group, one person at a time"
+$ja $le $kota $ke $non $nin **wija te ke wan nin an wan ten** "He talks to the group, one person at a time"
 
 ### Frequentative
+
+This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action ocurs in a recurring manner.
+
+$mi $le $lo $wiki **cunpu** "I used to run"
 
 ### Habitual
 
