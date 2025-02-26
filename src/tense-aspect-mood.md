@@ -86,9 +86,9 @@ $ja $le $kota $ke $non $nin **wija te ke wan nin an wan ten** "He talks to the g
 
 ### Frequentative
 
-This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action ocurs in a recurring manner.
+This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action occurs in a recurring manner.
 
-$mi $le $lo $wiki **cunpu** "I used to run"
+$mi $le $lo $wiki **cunpu** "I used to run / I run (habitually)"
 
 ### Habitual
 
