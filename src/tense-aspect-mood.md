@@ -11,19 +11,25 @@ A verb's tense tells you the position in time that the action occurred from the 
 
 Use the word $minuli in a verb clause to indicate that the action occurred "previously":
 
-$mi $le $tun $minuli 'I did (it)' (lit. I do previously)
+$kuku $le $kosan **minuli** $in $niwa $namu. “The bird built a nest.”
+
+$mi $le $tun **minuli**. "I did (it)." (lit. I do previously)
 
 ### Present
 
 Use the word $iputu in a verb clause to indicate that the action occurred "currently":
 
-$mi $le $tun $iputu 'I do (it)' (lit. I do currently)
+$kuku $le $kosan **iputu** $in $niwa $namu. “The bird is building a nest.”
+
+$mi $le $tun $iputu "I do (it)." (lit. I do currently)
 
 ### Future
 
 Use the word $putuci in a verb clause to indicate that the action occurs "next":
 
-$mi $le $tun $putuci 'I will do (it)' (lit. I do next(ly))
+$kuku $le $kosan **putuci** $in $niwa $namu. “The bird is going to build a nest.”
+
+$mi $le $tun $putuci "I will do (it)." (lit. I do next(ly))
 
 * * *
 
@@ -36,9 +42,9 @@ A verb's aspect tells you the flow of time during which the action occurred from
 
 This **imperfective** aspect expresses actions or states that are incomplete and still in progress. Some languages consider this aspect to mean _current state_ whereas **progressive** aspect denotes current action. In other languages, these are part of the same aspect. Use the word $conca in a verb clause to indicate that an action or state is "ongoing":
 
-$mi $le makan conca "I am eating"
+$mi $le $makan **conca**. "I am eating."
 
-ja le lo picijo conca minuli je wiki niju "They were running fast"
+$ja $le $lo $wiki **conca** $minuli. "They were running fast."
 
 ### Currently Happening (Progressive)
 
@@ -89,6 +95,14 @@ $ja $le $kota $ke $non $nin **wija te ke wan nin an wan ten** "He talks to the g
 This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action occurs in a recurring manner.
 
 $mi $le $lo $wiki **cunpu** "I used to run / I run (habitually)"
+
+### Prospective
+
+The **[prospective]([url](https://en.wikipedia.org/wiki/Prospective_aspect))** aspect (also known as antiperfect) expresses actions that have not yet begun but are expected to occur soon. It contrasts with the perfect aspect, which describes actions that have already been completed. In Kokanu, this aspect is marked by the modifier lito.
+
+$kuku $le $kosan **lito** $in $niwa $namu. “The bird has yet to build a nest.”
+
+$mi $le $kota lito "I haven't started speaking / I'm about to start speaking"
 
 ### Habitual
 
