@@ -1,6 +1,7 @@
 # Summary
 
 - [Introduction](./home-intro.md)
+- [How Kokanu is being Developed](./how-kokanu-is-being-developed.md)
 - [Grammar](./grammar.md)
     - [Word Derivations](grammar/word-derivations.md)
     - [Using the Parts of Speech](grammar/using-the-parts-of-speech.md)
