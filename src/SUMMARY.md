@@ -2,6 +2,7 @@
 
 - [Introduction](./home-intro.md)
 - [How Kokanu is being Developed](./how-kokanu-is-being-developed.md)
+- [Pronunication and writing](./pronunciation.md)
 - [Grammar](./grammar.md)
     - [Word Derivations](grammar/word-derivations.md)
     - [Using the Parts of Speech](grammar/using-the-parts-of-speech.md)
@@ -9,7 +10,6 @@
 - [Dictionary](dictionary.md)
 - [Tense Aspect and Mood](./tense-aspect-mood.md)
 - [Numbers and Mathematics](./numbers-mathematics.md)
-- [Likanu](./likanu.md)
 - [Special Words](./special-words.md)
     - [so - comparisons](special-words/so.md)
     - [sun - "from"](special-words/sun.md)
