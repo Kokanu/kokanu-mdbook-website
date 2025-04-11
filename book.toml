@@ -1,6 +1,5 @@
 [book]
 language = "en"
-multilingual = false
 src = "src"
 title = "Kokanu"
 description = "A minimalist IAL"
