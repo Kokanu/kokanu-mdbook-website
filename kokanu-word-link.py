@@ -20,7 +20,7 @@ if __name__ == '__main__':
     # load both the context and the book representations from stdin
     context, book = json.load(sys.stdin)
 
-    sys.print(json.dumps(book), file=sys.stderr)
+    print(json.dumps(book), file=sys.stderr)
     
     for section in book["sections"]:
         do_section(section)
