@@ -2,12 +2,16 @@
 
 - [Introduction](./home-intro.md)
 - [How Kokanu is being Developed](./how-kokanu-is-being-developed.md)
-- [Pronunication and writing](./pronunciation.md)
-- [Grammar](./grammar.md)
-    - [Word Derivations](grammar/word-derivations.md)
-    - [Using the Parts of Speech](grammar/using-the-parts-of-speech.md)
-    - [Clarifying Descriptions](grammar/clarifying-descriptions.md)
 - [Dictionary](dictionary.md)
+- [Pronunication and writing](./pronunciation.md)
+
+# Language Guide
+
+# Reference Grammar
+- [Introduction](./grammar.md)
+- [Word Derivations](grammar/word-derivations.md)
+- [Using the Parts of Speech](grammar/using-the-parts-of-speech.md)
+- [Clarifying Descriptions](grammar/clarifying-descriptions.md)
 - [Tense Aspect and Mood](./tense-aspect-mood.md)
 - [Numbers and Mathematics](./numbers-mathematics.md)
 - [Special Words](./special-words.md)
