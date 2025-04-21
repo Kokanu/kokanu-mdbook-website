@@ -12,10 +12,11 @@ def replace_dollar_sign_words(text):
 def do_section (section):
     for chapter in section:
         print(json.dumps(chapter), file=sys.stderr)
-        section[chapter]["content"] = replace_dollar_sign_words(section[chapter]["content"])
+        if chapter == "Chapter":
+            section[chapter]["content"] = replace_dollar_sign_words(section[chapter]["content"])
     
-        for sub_section in section[chapter]["sub_items"]:
-            do_section(sub_section)
+            for sub_section in section[chapter]["sub_items"]:
+                do_section(sub_section)
 
 if __name__ == '__main__':
     # load both the context and the book representations from stdin
