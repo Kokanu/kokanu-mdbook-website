@@ -11,6 +11,7 @@ def replace_dollar_sign_words(text):
 
 def do_section (section):
     for chapter in section:
+        print(json.dumps(chapter), file=sys.stderr)
         section[chapter]["content"] = replace_dollar_sign_words(section[chapter]["content"])
     
         for sub_section in section[chapter]["sub_items"]:
